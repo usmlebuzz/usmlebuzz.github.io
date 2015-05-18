@@ -1,0 +1,8 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://usmlebuzz.github.io
+title: USMLE Buzz
+tagline: An everyday USMLE Blog
+description: Meandering through the USMLE course
+paginate: 5
